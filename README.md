@@ -1,4 +1,4 @@
-# 🎬 IMDb Data Analysis with Python and Box Office Mojo API
+# 🎬 Analyzing IMDb & Box Office Data: A Personal Data Engineering Project
 
 This project creates a clean, enriched dataset for analyzing movies and TV shows using publicly available IMDb data and box office revenue information.
 
